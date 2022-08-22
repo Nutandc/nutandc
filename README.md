@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nutan Dahal</h1>
-<h3 align="center">A Passionate backend developer from Nepal</h3>
+<h3 align="center">A Passionate backend developer from Nepal | PHP Enthusiast</h3>
 
 - 🔭 I’m currently working on [InfoDevelopers Pvt.Ltd](https://infodev.com.np)
 
