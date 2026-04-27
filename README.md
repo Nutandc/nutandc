@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nutan Dahal</h1>
 <h3 align="center">
-Senior Full-Stack Developer | PHP & Laravel | Java Spring Boot | Microservices | 🇳🇵
+Senior Full-Stack Developer | Java Spring Boot | PHP & Laravel | Microservices | 🇳🇵| 🇺🇸
 </h3>
 
 ---
